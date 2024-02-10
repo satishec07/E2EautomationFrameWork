@@ -1,4 +1,4 @@
 # E2EautomationFrameWork
 My automation Framework
 <br>
-Author Satish Chandra
+Author Satish Chandra adding new information
