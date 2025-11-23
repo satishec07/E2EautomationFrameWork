@@ -17,5 +17,7 @@ def sum():
     print("Value")
     print("One")
     print("Four")
+    print("Three")
+
 sum()
 
