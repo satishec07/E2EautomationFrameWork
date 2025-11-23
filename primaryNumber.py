@@ -16,6 +16,7 @@ print(value(5,9))
 def sum():
     print("Value")
     print("One")
+    print("Three")
 
 sum()
 
