@@ -1,7 +1,8 @@
 
 def addValue(a, b):
     z = a + b
-    return z
+    y = b*a
+    return z, y
 
 print(addValue(4,7))
 
